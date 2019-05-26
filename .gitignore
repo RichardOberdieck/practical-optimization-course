@@ -1,0 +1,15 @@
+#Excluded
+*.solution.ipynb
+/Slides/Day1_UnconstrainedAndLinearProgramming/*
+/Slides/Day2_MixedIntegerProgramming/*
+/Slides/Day3_NonlinearProgramming/*
+/Slides/Day4_OptimizationInRealLife/*
+/Exercises/Problem descriptions/Batch scheduling
+
+#Except
+!/Slides/Day1_UnconstrainedAndLinearProgramming/Day1_UnconstrainedAndLinearProgramming.pdf
+!/Slides/Day2_MixedIntegerProgramming/Day2_MixedIntegerProgramming.pdf
+!/Slides/Day3_NonlinearProgramming/Day3_NonlinearProgramming.pdf
+!/Slides/Day4_OptimizationInRealLife/Day4_OptimizationInRealLife.pdf
+!/Slides/Day4_OptimizationInRealLife/Day4_OptimizationInRealLife.pdf
+!/Exercises/Problem descriptions/Batch scheduling/BatchScheduling.pdf
