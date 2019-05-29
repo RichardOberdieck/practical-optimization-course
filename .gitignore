@@ -1,5 +1,6 @@
 #Excluded
 *.solution.ipynb
+/Slides/Day0_GettingStarted/*
 /Slides/Day1_UnconstrainedAndLinearProgramming/*
 /Slides/Day2_MixedIntegerProgramming/*
 /Slides/Day3_NonlinearProgramming/*
@@ -7,6 +8,7 @@
 /Exercises/Problem descriptions/Batch scheduling/*
 
 #Except
+!/Slides/Day0_GettingStarted/Day0_GettingStarted.pdf
 !/Slides/Day1_UnconstrainedAndLinearProgramming/Day1_UnconstrainedAndLinearProgramming.pdf
 !/Slides/Day2_MixedIntegerProgramming/Day2_MixedIntegerProgramming.pdf
 !/Slides/Day3_NonlinearProgramming/Day3_NonlinearProgramming.pdf
