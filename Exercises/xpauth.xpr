@@ -1,0 +1,10 @@
+license expiry="04-aug-2019" features="Hyper OptConsole OptLib OptJava \
+	Integer Barrier Quadratic MosConsole MosRTLib MosMCLib \
+	MosRTJava MosMCJava IVE Network ParaBar=1024 ParaMIP=1024 \
+	mmxprs mmxad mmodbc mmoci BCL BCLJava" \
+	fico_xpress_release="8.6" hostid="any" platform="win32 \
+	win_x86_64 linux_x86 linux_x86_64" release="2019" \
+	start="04-jun-2019" static="1" sig="36fe 3658 faee 8613 c6e6 \
+	6899 6c0e 2878 d2b8 7066 d04d d16b 6c79 76f1 ef33 c8f1 8040 \
+	8c0b da2a 5a26 d9d4 9aba bd45 b4c5 15f6 98e8 e883 9855 27aa \
+	6a96 e398 823c"
