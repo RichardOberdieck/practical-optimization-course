@@ -1,0 +1,16 @@
+1. Install Anaconda with Python 3.7 from https://www.anaconda.com/distribution/
+2. Download the material for the course from dropbox (e.g. "C:\Users\[Your username]\OptimizationCourse\Module2")
+2. Add the "condabin" subfolder to your "Path" environment variables:
+	* Search for "Edit environment variables for your account"
+	* Select the Path variable and press edit
+	* Locate the "condabin" folder. Typically it is located at: C:\Users\[Your username]\AppData\Local\Continuum\anaconda3\condabin
+	* Add that specific location to "Path" and press "Save"
+3. Add "XPRESS" as a new variable to the "Environment variables":
+	* Search for "Edit environment variables for your account"
+	* Press "New"
+	* Type "XPRESS" as "Variable name"
+	* Type the location of the file "xpauth.xpr" (part of the course material) as the "Variable value"
+	* Press Ok
+4. Run "create_optienv.bat" (part of the course material)
+
+DONE
