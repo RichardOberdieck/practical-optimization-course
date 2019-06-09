@@ -9,6 +9,7 @@
 /Exercises/Problem descriptions/Nurse scheduling/*
 /Exercises/Problem descriptions/Urban zone fares/*
 /Exercises/Jupyter notebooks/tuneroutput/*
+/Exercises/Jupyter notebooks/*.txt
 
 #Except
 !/Slides/Day0_GettingStarted/Day0_GettingStarted.pdf
