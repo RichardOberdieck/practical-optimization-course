@@ -1,0 +1,25 @@
+# Documentation:
+# https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-file-manually
+name: optienv
+channels:  # in descending order of priority
+  - conda-forge
+  - fico-xpress
+  - defaults
+dependencies:
+  - python=3.7
+  - ipython
+  - numpy
+  - scipy
+  - matplotlib
+  - pytest
+  - ipopt
+  - glpk
+  - networkx
+  - pandas
+  - xpress
+  - ipykernel
+  - nb_conda
+  - jupyterlab
+  - jupyter
+  - geopy
+  - pandas-datareader
