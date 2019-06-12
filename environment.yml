@@ -4,6 +4,7 @@ name: optienv
 channels:  # in descending order of priority
   - conda-forge
   - fico-xpress
+  - anaconda
   - defaults
 dependencies:
   - python=3.7
@@ -23,3 +24,4 @@ dependencies:
   - jupyter
   - geopy
   - pandas-datareader
+  - xlrd
