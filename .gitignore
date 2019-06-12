@@ -6,7 +6,7 @@
 /Slides/Day3_NonlinearProgramming/*
 /Slides/Day4_OptimizationInRealLife/*
 /Exercises/Problem descriptions/Batch scheduling/*
-/Exercises/Problem descriptions/Nurse scheduling/*
+/Exercises/Problem descriptions/Doctor scheduling/*
 /Exercises/Problem descriptions/Urban zone fares/*
 /Exercises/Jupyter notebooks/tuneroutput/*
 /Exercises/Jupyter notebooks/*.txt
@@ -18,9 +18,10 @@
 !/Slides/Day3_NonlinearProgramming/Day3_NonlinearProgramming.pdf
 !/Slides/Day4_OptimizationInRealLife/Day4_OptimizationInRealLife.pdf
 !/Exercises/Problem descriptions/Batch scheduling/BatchScheduling.pdf
-!/Exercises/Problem descriptions/Nurse scheduling/NurseScheduling.pdf
+!/Exercises/Problem descriptions/Nurse scheduling/DoctorScheduling.pdf
 !/Exercises/Problem descriptions/Urban zone fares/UrbanZoneFares.pdf
 !/Exercises/Jupyter notebooks/Batch scheduling.part1.solution.ipynb
 !/Exercises/Jupyter notebooks/Batch scheduling.part2.solution.ipynb
 !/Exercises/Jupyter notebooks/Flow example.solution.ipynb
 !/Exercises/Jupyter notebooks/Deviation estimation.solution.ipynb
+!/Exercises/Jupyter notebooks/Facility location problem.solution.ipynb
